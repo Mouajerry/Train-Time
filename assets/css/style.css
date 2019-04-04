@@ -1,0 +1,16 @@
+#heading {
+    font-family: sans-serif;
+    font-weight: bold;
+  }
+  
+  .panel-title {
+    font-weight: bold;
+  }
+  
+  th {
+    font-weight: bold;
+  }
+
+  .row1 {
+      margin: 10px 50px 10px 20em;
+  }
