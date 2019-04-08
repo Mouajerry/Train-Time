@@ -15,7 +15,7 @@ $(document).ready(function() {
   var database = firebase.database();
   
   function currentTime() {
-   var current = moment().format('LT');
+   var current = moment().format('LTS');
    $("#currentTime").html(current);
    setTimeout(currentTime, 1000);
   }
