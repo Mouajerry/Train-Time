@@ -3,11 +3,7 @@
     font-weight: bold;
   }
   
-  .panel-title {
-    font-weight: bold;
-  }
-  
-  th {
+  .card-title, .card-header, th {
     font-weight: bold;
   }
 
